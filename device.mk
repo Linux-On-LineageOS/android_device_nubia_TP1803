@@ -332,3 +332,4 @@ PRODUCT_PACKAGES += \
 
 # Call the proprietary setup
 $(call inherit-product, vendor/nubia/TP1803/TP1803-vendor.mk)
+$(call inherit-product, vendor/lindroid/lindroid.mk)
